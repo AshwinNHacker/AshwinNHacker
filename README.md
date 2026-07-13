@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hi, I'm Ashwin N
 
 Cybersecurity professional with expertise in **Security Operations (SOC), Digital Forensics, Cloud Security, Risk Management, Threat Detection, and Security Engineering**.
@@ -98,10 +97,16 @@ I enjoy building practical security solutions, automating workflows, conducting 
 
 ### 🔹 Security Learning Platforms
 
-- TryHackMe
-- Hack The Box
-- PortSwigger Web Security Academy
-- Let's Defend
+🥇 TryHackMe (Global Rank #1 – 2025)
+Hack The Box (HTB)
+PortSwigger Web Security Academy
+Let's Defend
+Hackviser Core
+PicoCTF
+OverTheWire
+Root Me
+VulnHub
+PentesterLab
 
 ---
 
@@ -119,14 +124,24 @@ I enjoy building practical security solutions, automating workflows, conducting 
 
 ## 📜 Certifications
 
-- ISC² Certified in Cybersecurity (CC)
-- IBM Cybersecurity
+- ISC²
+- IBM SkillsBuild
 - Cisco Networking Academy
 - EC-Council
-- AWS Cloud Security
-- Microsoft Security
-- Google Cybersecurity
+- Microsoft Learn
+- Google
+- Google Cloud
+- Google Developers
+- AWS
 - Harvard CS50
+- TCM Security
+- Hackviser Core
+- TryHackMe
+- Hack The Box
+- PortSwigger Web Security Academy
+- Let's Defend
+- MeitY (Government of India)
+- National Human Rights Commission (India)
 
 ---
 
@@ -155,6 +170,10 @@ I enjoy building practical security solutions, automating workflows, conducting 
 - Secure Software Development
 - AI Security
 - Offensive & Defensive Security
+
+---
+
+> **"Building secure systems through continuous learning, practical research, and real-world cybersecurity solutions."**
 
 ---
 
