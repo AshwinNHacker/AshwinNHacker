@@ -181,26 +181,60 @@ PentesterLab
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ashwin-n-1-1-1-/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwinnadaraj111@gmail.com) 
 
-Programming
-Python • Rust • Java • C • C++ • C# • JavaScript • TypeScript • HTML • CSS • SQL • Bash
+# 🛡️ Cybersecurity & Technology Stack
 
-Red Team
-Burp Suite • Metasploit • Nmap • SQLMap • FFUF • Gobuster • Hydra • Hashcat • Aircrack-ng • Amass • Subfinder • OWASP ZAP
+### 🔐 Core Domains
+Red Teaming • Blue Teaming • SOC Operations • Detection Engineering • Threat Hunting • Incident Response • Digital Forensics (DFIR) • Malware Analysis • Reverse Engineering • Threat Intelligence • Vulnerability Assessment • Penetration Testing • Web Application Security • API Security • Active Directory Security • Cloud Security • OSINT • Network Security • Security Automation • AI Security • Risk Management • MITRE ATT&CK • OWASP Top 10 • NIST Cybersecurity Framework • CIS Controls
 
-Blue Team
-Wazuh • QRadar • Splunk • Elastic • Kibana • Sentinel • Security Onion • Zeek • Sigma • YARA • Velociraptor
+---
 
-OSINT
-Shodan • Maltego • Recon-ng • SpiderFoot • theHarvester • Censys • VirusTotal • Google Dorking
+### 💻 Programming & Scripting
+Python • Rust • Java • C • C++ • C# • JavaScript • TypeScript • SQL • Bash • PowerShell • HTML5 • CSS3
 
-Forensics
-Autopsy • FTK Imager • Volatility • Ghidra • Binwalk • ExifTool
+---
 
-Cloud
-AWS • Azure • Docker • Kubernetes • GitHub Actions
+### 🔴 Red Team Arsenal
+Burp Suite • OWASP ZAP • Metasploit Framework • Nmap • SQLMap • FFUF • Gobuster • Dirsearch • Feroxbuster • Nikto • Hydra • Hashcat • John the Ripper • Aircrack-ng • Netcat • Searchsploit • Wireshark • tcpdump • Amass • Subfinder • DNSRecon • Enum4Linux • CrackMapExec / NetExec • BloodHound • Mimikatz • Responder • Evil-WinRM • Impacket
 
-Operating Systems
-Linux • Kali • Parrot • Tails • Ubuntu • Windows
+---
+
+### 🔵 Blue Team & SOC
+Wazuh • Elastic Stack • Elasticsearch • Kibana • Splunk • IBM QRadar • Microsoft Sentinel • Security Onion • Zeek • Suricata • Snort • Sigma Rules • YARA • Sysmon • Velociraptor • TheHive • Cortex • osquery • Autopsy • FTK Imager • Volatility • Ghidra • Binwalk • ExifTool • PEStudio
+
+---
+
+### 🕵️ OSINT & Threat Intelligence
+Shodan • Maltego • SpiderFoot • theHarvester • Recon-ng • Amass • Censys • VirusTotal • URLScan • SecurityTrails • crt.sh • WHOIS • DNSDumpster • Intelligence X • FOCA • Sherlock • Google Dorking
+
+---
+
+### ☁️ Cloud & DevSecOps
+AWS • Microsoft Azure • Docker • Kubernetes • Git • GitHub • GitHub Actions • Firebase • Amazon S3 • AWS Lambda • Amazon Athena • Amazon SageMaker • Apache Kafka • Apache Spark
+
+---
+
+### 🌐 Networking
+TCP/IP • UDP • ICMP • DNS • DHCP • HTTP/HTTPS • FTP • SSH • SMTP • IMAP • POP3 • VPN • VLAN • NAT • Routing • Switching • Firewalls • IDS/IPS • Proxy • Packet Analysis
+
+---
+
+### 🐧 Operating Systems
+Linux • Kali Linux • Parrot OS • Tails OS • Ubuntu • Debian • Windows • Windows Server
+
+---
+
+### 🧅 Privacy & Anonymous Networks
+Tor Browser • Tor Network • ProxyChains • OpenVPN • WireGuard
+
+---
+
+### 🤖 AI & Security
+OpenAI • LangChain • Prompt Engineering • LLM Security • Security Automation • AI-Assisted Threat Detection
+
+---
+
+### 🎯 Platforms & Labs
+TryHackMe • Hack The Box • PortSwigger Web Security Academy • Let's Defend • Root-Me • OverTheWire • PicoCTF • VulnHub
 
 ## 📊 GitHub Statistics
 
