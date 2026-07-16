@@ -184,60 +184,85 @@ PentesterLab
 ## 🛡️ Cybersecurity & Technology Stack
 
 ### 🔴 Offensive Security
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp)
-![Hydra](https://img.shields.io/badge/Hydra-111111?style=for-the-badge)
-![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-CC0000?style=for-the-badge)
-![Gobuster](https://img.shields.io/badge/Gobuster-444444?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-1679A7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLMap-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Hydra-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/John_The_Ripper-darkred?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Aircrack--ng-005A9C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gobuster-grey?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nikto-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OWASP_Top_10-black?style=for-the-badge&logo=owasp"/>
+</p>
 
-### 🔵 Blue Team & SOC
-![Wazuh](https://img.shields.io/badge/Wazuh-0052CC?style=for-the-badge)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk)
-![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic)
-![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
-![Suricata](https://img.shields.io/badge/Suricata-EF3E36?style=for-the-badge)
-![Sigma Rules](https://img.shields.io/badge/Sigma%20Rules-4B0082?style=for-the-badge)
-![YARA](https://img.shields.io/badge/YARA-FFB000?style=for-the-badge)
+### 🔵 Blue Team • SOC • Detection Engineering
+<p>
+<img src="https://img.shields.io/badge/Wazuh-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic"/>
+<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana"/>
+<img src="https://img.shields.io/badge/Splunk-black?style=for-the-badge&logo=splunk"/>
+<img src="https://img.shields.io/badge/IBM_QRadar-052FAD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Snort-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Suricata-EF3E36?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Security_Onion-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YARA-FFB000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sigma_Rules-6F42C1?style=for-the-badge"/>
+</p>
 
-### 🔍 Digital Forensics & Incident Response
-![Autopsy](https://img.shields.io/badge/Autopsy-1E88E5?style=for-the-badge)
-![Volatility](https://img.shields.io/badge/Volatility-7B68EE?style=for-the-badge)
-![FTK](https://img.shields.io/badge/FTK-0066CC?style=for-the-badge)
-![Velociraptor](https://img.shields.io/badge/Velociraptor-00C853?style=for-the-badge)
+### 🕵️ OSINT & Reconnaissance
+<p>
+<img src="https://img.shields.io/badge/Maltego-0088CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Shodan-E60012?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/theHarvester-444444?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Recon--ng-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SpiderFoot-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge"/>
+</p>
 
-### ☁️ Cloud & DevSecOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions)
+### 🔍 Digital Forensics & Malware Analysis
+<p>
+<img src="https://img.shields.io/badge/Autopsy-1E88E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FTK_Imager-0057B8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Volatility-7B68EE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ghidra-C62828?style=for-the-badge"/>
+</p>
+
+### 🌐 Anonymous Networks & Privacy
+<p>
+<img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tails_OS-56347C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux"/>
+</p>
+
+### ☁️ Cloud Security
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+</p>
 
 ### 💻 Programming & Automation
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+</p>
 
-### 🖥️ Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux)
-![Parrot OS](https://img.shields.io/badge/Parrot%20OS-15E0ED?style=for-the-badge)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
-
-### 📚 Platforms
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme)
-![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge)
-![LetsDefend](https://img.shields.io/badge/LetsDefend-1A1A1A?style=for-the-badge)
-![PortSwigger](https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge)
-
-### 🤖 AI & Security
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
-![Amazon SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws)
-
+### 🧪 Labs & Platforms
+<p>
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme"/>
+<img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LetsDefend-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Root_Me-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VulnHub-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OverTheWire-444444?style=for-the-badge"/>
+</p>
 ## 📊 GitHub Statistics
 
 
