@@ -6,8 +6,6 @@
 
 <br>
 
-<div align="center">
-
 ```
 ashwin@soc-console
 ---------------------------------------
@@ -24,8 +22,6 @@ Locale    : India - prior deployment - Bahrain
 Status    : [*] online - monitoring
 ---------------------------------------
 ```
-
-</div>
 
 <br>
 
