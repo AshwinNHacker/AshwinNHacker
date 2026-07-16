@@ -181,129 +181,26 @@ PentesterLab
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ashwin-n-1-1-1-/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwinnadaraj111@gmail.com) 
 
-## 🛡️ Cybersecurity & Technology Stack
-# 🛡️ Cybersecurity & Technology Stack
+Programming
+Python • Rust • Java • C • C++ • C# • JavaScript • TypeScript • HTML • CSS • SQL • Bash
 
-## 💻 Programming Languages
-<p>
-<img src="https://skillicons.dev/icons?i=python,rust,java,c,cpp,cs,js,ts,html,css,bash,mysql,sqlite"/>
-</p>
+Red Team
+Burp Suite • Metasploit • Nmap • SQLMap • FFUF • Gobuster • Hydra • Hashcat • Aircrack-ng • Amass • Subfinder • OWASP ZAP
 
-## 🌐 Web & Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,flask,fastapi"/>
-</p>
+Blue Team
+Wazuh • QRadar • Splunk • Elastic • Kibana • Sentinel • Security Onion • Zeek • Sigma • YARA • Velociraptor
 
-## ☁️ Cloud & DevSecOps
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,githubactions,linux"/>
-</p>
+OSINT
+Shodan • Maltego • Recon-ng • SpiderFoot • theHarvester • Censys • VirusTotal • Google Dorking
 
----
+Forensics
+Autopsy • FTK Imager • Volatility • Ghidra • Binwalk • ExifTool
 
-## 🔴 Red Team
+Cloud
+AWS • Azure • Docker • Kubernetes • GitHub Actions
 
-- Web Application Penetration Testing
-- Network Penetration Testing
-- Active Directory Security
-- API Security Testing
-- Wireless Security Assessment
-- Cloud Penetration Testing
-- Privilege Escalation
-- Password Auditing
-- Vulnerability Assessment
-- Exploit Research
-- Reverse Engineering
-- Malware Analysis
-- Binary Analysis
-- OSINT
-- Reconnaissance
-
-**Tools**
-
-Burp Suite • OWASP ZAP • Metasploit Framework • Nmap • SQLMap • FFUF • Gobuster • Hydra • John the Ripper • Hashcat • Aircrack-ng • Searchsploit • Nikto • Netcat • Wireshark • tcpdump • Dirsearch • Amass • Subfinder
-
----
-
-## 🔵 Blue Team
-
-- Security Operations Center (SOC)
-- Threat Hunting
-- Threat Detection
-- Incident Response
-- Digital Forensics
-- Detection Engineering
-- Log Analysis
-- Security Monitoring
-- SIEM Administration
-- Endpoint Monitoring
-- Network Security Monitoring
-- IOC Analysis
-- MITRE ATT&CK Mapping
-
-**Tools**
-
-Wazuh • Elastic Stack • Elasticsearch • Kibana • Splunk • IBM QRadar • Microsoft Sentinel • Security Onion • Zeek • Suricata • Snort • Sigma Rules • YARA • Sysmon • Velociraptor • Autopsy • FTK Imager • Volatility
-
----
-
-## 🕵️ OSINT & Threat Intelligence
-
-Shodan • Maltego • SpiderFoot • theHarvester • Recon-ng • Google Dorking • VirusTotal • Censys • URLScan • crt.sh • WHOIS • DNSDumpster • SecurityTrails
-
----
-
-## 🔍 Digital Forensics
-
-Autopsy • FTK Imager • Volatility • Ghidra • Binwalk • ExifTool • Wireshark • Memory Analysis • Disk Forensics • Network Forensics
-
----
-
-## 🌐 Networking
-
-TCP/IP • UDP • ICMP • DNS • DHCP • HTTP • HTTPS • FTP • SSH • SMTP • IMAP • POP3 • VPN • VLAN • NAT • Firewalls • IDS • IPS • Proxy • Routing • Switching
-
----
-
-## 🧅 Privacy & Anonymous Networks
-
-Tor Browser • Tor Network • Tails OS • ProxyChains • OpenVPN
-
----
-
-## ☁️ Cloud Security
-
-AWS IAM • Amazon S3 • AWS Lambda • Amazon Athena • Amazon SageMaker • Cloud Security • Identity & Access Management • Security Monitoring
-
----
-
-## 🤖 AI & Security
-
-Prompt Engineering • OpenAI • LangChain • AI Security • LLM Security • Security Automation
-
----
-
-## 🐧 Operating Systems
-
-Linux • Kali Linux • Parrot OS • Tails OS • Ubuntu • Debian • Windows • Windows Server
-
----
-
-## 🛠️ Development Tools
-
-Git • GitHub • GitHub Actions • VS Code • Docker • Postman
-
----
-
-## 📚 Platforms
-
-TryHackMe • Hack The Box • PortSwigger Web Security Academy • Let's Defend • Root-Me • OverTheWire • PicoCTF • VulnHub
-
----
-
-## 📖 Security Frameworks & Standards
-
-MITRE ATT&CK • OWASP Top 10 • CVSS • NIST Cybersecurity Framework • CIS Controls • Cyber Kill Chain
+Operating Systems
+Linux • Kali • Parrot • Tails • Ubuntu • Windows
 
 ## 📊 GitHub Statistics
 
