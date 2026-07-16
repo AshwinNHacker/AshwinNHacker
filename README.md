@@ -182,87 +182,129 @@ PentesterLab
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ashwin-n-1-1-1-/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwinnadaraj111@gmail.com) 
 
 ## 🛡️ Cybersecurity & Technology Stack
+# 🛡️ Cybersecurity & Technology Stack
 
-### 🔴 Offensive Security
+## 💻 Programming Languages
 <p>
-<img src="https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Metasploit-1679A7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQLMap-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Hydra-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/John_The_Ripper-darkred?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Aircrack--ng-005A9C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gobuster-grey?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Nikto-2E8B57?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OWASP_Top_10-black?style=for-the-badge&logo=owasp"/>
+<img src="https://skillicons.dev/icons?i=python,rust,java,c,cpp,cs,js,ts,html,css,bash,mysql,sqlite"/>
 </p>
 
-### 🔵 Blue Team • SOC • Detection Engineering
+## 🌐 Web & Backend
 <p>
-<img src="https://img.shields.io/badge/Wazuh-0052CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic"/>
-<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana"/>
-<img src="https://img.shields.io/badge/Splunk-black?style=for-the-badge&logo=splunk"/>
-<img src="https://img.shields.io/badge/IBM_QRadar-052FAD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Snort-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Suricata-EF3E36?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Security_Onion-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/YARA-FFB000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Sigma_Rules-6F42C1?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,flask,fastapi"/>
 </p>
 
-### 🕵️ OSINT & Reconnaissance
+## ☁️ Cloud & DevSecOps
 <p>
-<img src="https://img.shields.io/badge/Maltego-0088CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Shodan-E60012?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/theHarvester-444444?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Recon--ng-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SpiderFoot-1E90FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,git,githubactions,linux"/>
 </p>
 
-### 🔍 Digital Forensics & Malware Analysis
-<p>
-<img src="https://img.shields.io/badge/Autopsy-1E88E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FTK_Imager-0057B8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Volatility-7B68EE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ghidra-C62828?style=for-the-badge"/>
-</p>
+---
 
-### 🌐 Anonymous Networks & Privacy
-<p>
-<img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tails_OS-56347C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux"/>
-</p>
+## 🔴 Red Team
 
-### ☁️ Cloud Security
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-</p>
+- Web Application Penetration Testing
+- Network Penetration Testing
+- Active Directory Security
+- API Security Testing
+- Wireless Security Assessment
+- Cloud Penetration Testing
+- Privilege Escalation
+- Password Auditing
+- Vulnerability Assessment
+- Exploit Research
+- Reverse Engineering
+- Malware Analysis
+- Binary Analysis
+- OSINT
+- Reconnaissance
 
-### 💻 Programming & Automation
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
-</p>
+**Tools**
 
-### 🧪 Labs & Platforms
-<p>
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme"/>
-<img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LetsDefend-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Root_Me-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VulnHub-2E8B57?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OverTheWire-444444?style=for-the-badge"/>
-</p>
+Burp Suite • OWASP ZAP • Metasploit Framework • Nmap • SQLMap • FFUF • Gobuster • Hydra • John the Ripper • Hashcat • Aircrack-ng • Searchsploit • Nikto • Netcat • Wireshark • tcpdump • Dirsearch • Amass • Subfinder
+
+---
+
+## 🔵 Blue Team
+
+- Security Operations Center (SOC)
+- Threat Hunting
+- Threat Detection
+- Incident Response
+- Digital Forensics
+- Detection Engineering
+- Log Analysis
+- Security Monitoring
+- SIEM Administration
+- Endpoint Monitoring
+- Network Security Monitoring
+- IOC Analysis
+- MITRE ATT&CK Mapping
+
+**Tools**
+
+Wazuh • Elastic Stack • Elasticsearch • Kibana • Splunk • IBM QRadar • Microsoft Sentinel • Security Onion • Zeek • Suricata • Snort • Sigma Rules • YARA • Sysmon • Velociraptor • Autopsy • FTK Imager • Volatility
+
+---
+
+## 🕵️ OSINT & Threat Intelligence
+
+Shodan • Maltego • SpiderFoot • theHarvester • Recon-ng • Google Dorking • VirusTotal • Censys • URLScan • crt.sh • WHOIS • DNSDumpster • SecurityTrails
+
+---
+
+## 🔍 Digital Forensics
+
+Autopsy • FTK Imager • Volatility • Ghidra • Binwalk • ExifTool • Wireshark • Memory Analysis • Disk Forensics • Network Forensics
+
+---
+
+## 🌐 Networking
+
+TCP/IP • UDP • ICMP • DNS • DHCP • HTTP • HTTPS • FTP • SSH • SMTP • IMAP • POP3 • VPN • VLAN • NAT • Firewalls • IDS • IPS • Proxy • Routing • Switching
+
+---
+
+## 🧅 Privacy & Anonymous Networks
+
+Tor Browser • Tor Network • Tails OS • ProxyChains • OpenVPN
+
+---
+
+## ☁️ Cloud Security
+
+AWS IAM • Amazon S3 • AWS Lambda • Amazon Athena • Amazon SageMaker • Cloud Security • Identity & Access Management • Security Monitoring
+
+---
+
+## 🤖 AI & Security
+
+Prompt Engineering • OpenAI • LangChain • AI Security • LLM Security • Security Automation
+
+---
+
+## 🐧 Operating Systems
+
+Linux • Kali Linux • Parrot OS • Tails OS • Ubuntu • Debian • Windows • Windows Server
+
+---
+
+## 🛠️ Development Tools
+
+Git • GitHub • GitHub Actions • VS Code • Docker • Postman
+
+---
+
+## 📚 Platforms
+
+TryHackMe • Hack The Box • PortSwigger Web Security Academy • Let's Defend • Root-Me • OverTheWire • PicoCTF • VulnHub
+
+---
+
+## 📖 Security Frameworks & Standards
+
+MITRE ATT&CK • OWASP Top 10 • CVSS • NIST Cybersecurity Framework • CIS Controls • Cyber Kill Chain
+
 ## 📊 GitHub Statistics
 
 
