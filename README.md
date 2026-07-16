@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=F0B429&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=root%40soc-console%3A~%24+whoami;%3E+Ashwin+N+%E2%80%94+Cybersecurity Engineer+%26+Security Researcher+SOC & DFIR Specialist;%3E+SOC+%7C+DFIR+%7C+Cloud+Security+%7C+Threat+Hunting" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=F0B429&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=root%40soc-console%3A~%24+whoami;%3E+Ashwin+N+-+Cybersecurity+Engineer;%3E+Threat+Detection+%26+DFIR+%7C+Security+Automation;%3E+Cloud+Security+%7C+Risk+Management+%7C+SOC+Operations" alt="Typing SVG" />
 
 </div>
 
