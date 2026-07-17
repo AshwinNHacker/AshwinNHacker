@@ -295,20 +295,19 @@ Applied research + DFIR investigations.
 
 <div align="center">
 
-<img width="80%" src="https://streak-stats.demolab.com?user=AshwinNHacker&hide_border=true&background=0D1117&ring=F0B429&fire=F85149&currStreakLabel=F0B429&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=AshwinNHacker&theme=github-dark-blue&hide_border=true&cache_seconds=1800"/>
 
 <br><br>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshwinNHacker&theme=github_dark"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AshwinNHacker&hide_border=true&bg_color=0D1117&color=8B949E&line=F0B429&point=F85149"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AshwinNHacker&theme=github-dark&hide_border=true"/>
 
 <br><br>
 
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshwinNHacker&theme=github_dark"/>
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AshwinNHacker&theme=github_dark"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AshwinNHacker&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinNHacker&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 
 </div>
-
 ---
 
 ## `$ netstat -antp | grep ESTABLISHED`
