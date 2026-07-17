@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=F0B429&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=root%40soc-console%3A~%24+whoami;%3E+Ashwin+N+-+Cybersecurity+Engineer;%3E+Threat+Detection+%26+DFIR+%7C+Security+Automation;%3E+Cloud+Security+%7C+Risk+Management+%7C+SOC+Operations" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=root%40soc-console%3A~%24+whoami;%3E+Ashwin+N+-+Cybersecurity+Engineer;%3E+Threat+Detection+%26+DFIR+%7C+Security+Automation;%3E+Cloud+Security+%7C+Risk+Management+%7C+SOC+Operations" alt="Typing SVG" />
 
 </div>
 
@@ -295,12 +295,12 @@ Applied research + DFIR investigations.
 
 <div align="center">
 
-<img width="80%" src="https://streak-stats.demolab.com?user=AshwinNHacker&hide_border=true&background=0D1117&ring=F0B429&fire=F85149&currStreakLabel=F0B429&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=AshwinNHacker&hide_border=true&background=0D1117&ring=58A6FF&fire=F85149&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E"/>
 
 <br><br>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshwinNHacker&theme=github_dark"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AshwinNHacker&hide_border=true&bg_color=0D1117&color=8B949E&line=F0B429&point=F85149"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AshwinNHacker&hide_border=true&bg_color=0D1117&color=8B949E&line=58A6FF&point=F85149"/>
 
 <br><br>
 
