@@ -1,17 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=ASHWIN&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Offensive%20Security%20Engineer%20%7C%20TraceX%20Labs&descAlignY=55&descSize=18&descColor=8B949E"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=root%40redteam%3A~%24+whoami;%3E+Ashwin+-+Senior+Assistant+Manager%2C+TraceX+Labs;%3E+Offensive+Security+%7C+SOC-X+Creator+%7C+TryHackMe+%231" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=180&section=header&text=ASHWIN%20N&fontSize=55&fontColor=58A6FF&animation=fadeIn&fontAlignY=35&desc=Offensive%20Security%20Engineer%20%7C%20TraceX%20Labs&descAlignY=55&descSize=18&descColor=8B949E"/>
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/RANK-TRYHACKME%20GLOBAL%20%231-161B22?style=for-the-badge&labelColor=0D1117&color=58A6FF"/>
-<img src="https://img.shields.io/badge/ROLE-SR.%20ASSISTANT%20MANAGER-161B22?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVELY%20BREAKING%20THINGS-161B22?style=for-the-badge&labelColor=0D1117"/>
+
+```
+AI_MAP.SYS ─────────────────────────────────────
+SYSTEM INFO
+
+ Subject      : Ashwin N
+ Role         : Offensive Security Engineer, Sr. Assistant Manager
+ Origin       : Kerala, India
+ Status       : Hunting bugs • Building SOC-X • Training analysts
+ ToolChain    : Burp Suite, Metasploit, Nmap, Wireshark, Kali Linux
+
+ Core Lang    : Python, Bash, PowerShell
+ Core Domain  : Red Team, DFIR, SOC Operations, Cloud Security
+ Core Infra   : AWS, Docker, Wazuh, Kibana
+
+ - Contact
+ Grid Mail     : ashwinnadaraj111@gmail.com
+ Grid LinkedIn : linkedin.com/in/ashwin-n-1-1-1-
+ Grid GitHub   : github.com/AshwinNHacker
+ Grid Google   : g.dev/Ashwin-N-CyberSecurity-Google
+
+ - Live Stats
+   See live GitHub stats badges below in README ↓
+─────────────────────────────────────────────────
+```
+
 </div>
 
 ---
@@ -42,7 +63,7 @@
 ![Docker](https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=E6EDF3&labelColor=0D1117)
 ![AWS](https://img.shields.io/badge/AWS-161B22?style=for-the-badge&logo=amazonaws&logoColor=E6EDF3&labelColor=0D1117)
 
-<sub>Edit this row to match your actual toolkit — swap badges in/out at <a href="https://shields.io">shields.io</a></sub>
+<sub>Swap these for your actual toolkit at <a href="https://shields.io">shields.io</a></sub>
 </div>
 
 ---
