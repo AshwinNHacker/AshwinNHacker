@@ -315,9 +315,8 @@ Applied research + DFIR investigations.
 
 <div align="center">
 
-[![LinkedIn](...&logo=linkedin...)](https://linkedin.com/in/ashwin-n-1-1-1-/)
-[![Email](...&logo=gmail...)](mailto:ashwinnadaraj111@gmail.com)
-[![Google Developer Program](...&logo=google...)](https://g.dev/Ashwin-N-CyberSecurity-Google)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=E6EDF3&labelColor=0D1117)](https://linkedin.com/in/www.linkedin.com/in/ashwin-n-1-1-1-/)
+[![Gmail](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=E6EDF3&labelColor=0D1117)](mailto:ashwinnadaraj111@gmail.com)
 
 </div>
 
