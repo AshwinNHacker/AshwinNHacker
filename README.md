@@ -6,24 +6,41 @@
 
 <br>
 
+<!--
+  ASCII-ART PHOTO (optional):
+  1. Install: pip install ascii-image-converter
+  2. Run: ascii-image-converter your-photo.jpg --color --html -o ascii.html
+     (or use https://asciiart.club or https://www.text-image.com for a quick web version)
+  3. Screen-record the terminal rendering it, convert to GIF (ScreenToGif / ezgif.com),
+     upload the GIF to your repo (e.g. /assets/ascii-avatar.gif), then embed it:
+  <img src="https://raw.githubusercontent.com/AshwinNHacker/AshwinNHacker/main/assets/ascii-avatar.gif" width="320"/>
+-->
+
+<table>
+<tr>
+<td width="35%" align="center">
+
+<img src="https://raw.githubusercontent.com/AshwinNHacker/AshwinNHacker/main/assets/ascii-avatar.gif" width="100%" style="border-radius:8px"/>
+<sub>↑ replace with your ASCII-art GIF (see comment above)</sub>
+
+</td>
+<td width="65%">
+
 ```
 ashwin@soc-console
 ---------------------------------------
 OS        : Security Operations Analyst
 Host      : Zero Defence Security
 Kernel    : Detection Engineering
-Shell     : /bin/python3  /bin/bash  /bin/pwsh
-Terminal  : Wazuh + Kibana (SIEM)
-DE        : Cloud-Native Security Architecture
 Rank      : TryHackMe - Global #1 (2025)
-CPU       : Threat Hunting & Malware Analysis
-Memory    : 150+ tools loaded, 0 leaked secrets
-Locale    : India - prior deployment - Bahrain
+Deployed  : India · Bahrain
 Status    : [*] online - monitoring
 ---------------------------------------
 ```
 
-<br>
+</td>
+</tr>
+</table>
 
 <div align="center">
 <img src="https://img.shields.io/badge/CLEARANCE-SOC%20ANALYST-161B22?style=for-the-badge&labelColor=0D1117"/>
@@ -31,214 +48,73 @@ Status    : [*] online - monitoring
 <img src="https://img.shields.io/badge/STATUS-ACTIVELY%20HUNTING-161B22?style=for-the-badge&labelColor=0D1117"/>
 </div>
 
-<div align="center">
-<sub>Each domain below is marked with the color security teams actually use for it:</sub><br><br>
-<img src="https://img.shields.io/badge/●-F85149?style=flat-square&labelColor=0D1117"/> <sub>Red Team</sub>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/●-58A6FF?style=flat-square&labelColor=0D1117"/> <sub>Blue Team</sub>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/●-A371F7?style=flat-square&labelColor=0D1117"/> <sub>Purple / Intel</sub>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/●-D29922?style=flat-square&labelColor=0D1117"/> <sub>Infra / Cloud</sub>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/●-8B949E?style=flat-square&labelColor=0D1117"/> <sub>General</sub>
-</div>
-
 ---
 
 ## `$ whoami --verbose`
 
-I build practical security systems and break them again on purpose — Security Operations, Digital Forensics, Cloud Security, Risk Management, Threat Detection, and Security Engineering. My GitHub is a working log of detection pipelines, automation tooling, cloud-native security research, and open-source contributions aimed at real-world defense, not toy demos.
-
-> *"Building secure systems through continuous learning, practical research, and real-world cybersecurity solutions."*
+I build practical security systems, then try to break them on purpose. My work spans SOC operations, detection engineering, cloud security, and DFIR — this repo is a working log of the pipelines, tooling, and research behind that, not toy demos.
 
 ---
 
 ## `$ cat /var/log/experience.log`
 
 ```
-[ROLE]  Information Security Officer          — Zero Defence Security
-[ROLE]  Cyber Security Analyst & Risk Mgmt Spec.
+[ROLE]  Information Security Officer     — Zero Defence Security
+[ROLE]  Cyber Security Analyst & Risk Management Specialist
 [ROLE]  IT Security Consultant
-[INTL]  Field deployment                        — Bahrain
+[INTL]  Field deployment                 — Bahrain
 ```
 
 ---
 
-## <img src="https://img.shields.io/badge/●-F85149?style=flat-square&labelColor=0D1117"/> `$ ls -la arsenal/red-team/`
+## `$ ls -la arsenal/ --top`
+
+<div align="center">
+<sub>Full toolkit → <a href="https://github.com/AshwinNHacker/AshwinNHacker/blob/main/TOOLS.md">TOOLS.md</a></sub>
+</div>
+<br>
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/●-F85149?style=flat-square&labelColor=0D1117"/> <sub><b>Red Team</b></sub>
+&nbsp;&nbsp;
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-161B22?style=for-the-badge&logo=burpsuite&logoColor=E6EDF3&labelColor=0D1117)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-161B22?style=for-the-badge&logo=owasp&logoColor=E6EDF3&labelColor=0D1117)
 ![Metasploit](https://img.shields.io/badge/Metasploit-161B22?style=for-the-badge&logo=metasploit&logoColor=E6EDF3&labelColor=0D1117)
 ![Nmap](https://img.shields.io/badge/Nmap-161B22?style=for-the-badge&logo=nmap&logoColor=E6EDF3&labelColor=0D1117)
-![SQLMap](https://img.shields.io/badge/SQLMap-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![Hydra](https://img.shields.io/badge/Hydra-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![Hashcat](https://img.shields.io/badge/Hashcat-161B22?style=for-the-badge&logo=hashcat&logoColor=E6EDF3&labelColor=0D1117)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
 ![BloodHound](https://img.shields.io/badge/BloodHound-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![Mimikatz](https://img.shields.io/badge/Mimikatz-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![Impacket](https://img.shields.io/badge/Impacket-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![Evil-WinRM](https://img.shields.io/badge/Evil--WinRM-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![CrackMapExec](https://img.shields.io/badge/CrackMapExec_%2F_NetExec-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![Wireshark](https://img.shields.io/badge/Wireshark-161B22?style=for-the-badge&logo=wireshark&logoColor=E6EDF3&labelColor=0D1117)
-![FFUF](https://img.shields.io/badge/FFUF-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![Gobuster](https://img.shields.io/badge/Gobuster-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
 
-</div>
+<br><br>
 
----
-
-## <img src="https://img.shields.io/badge/●-58A6FF?style=flat-square&labelColor=0D1117"/> `$ systemctl status blue-team.service`
-
-<div align="center">
-
+<img src="https://img.shields.io/badge/●-58A6FF?style=flat-square&labelColor=0D1117"/> <sub><b>Blue Team</b></sub>
+&nbsp;&nbsp;
 ![Wazuh](https://img.shields.io/badge/Wazuh-161B22?style=for-the-badge&logo=wazuh&logoColor=E6EDF3&labelColor=0D1117)
 ![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-161B22?style=for-the-badge&logo=elastic&logoColor=E6EDF3&labelColor=0D1117)
-![Kibana](https://img.shields.io/badge/Kibana-161B22?style=for-the-badge&logo=kibana&logoColor=E6EDF3&labelColor=0D1117)
 ![Splunk](https://img.shields.io/badge/Splunk-161B22?style=for-the-badge&logo=splunk&logoColor=E6EDF3&labelColor=0D1117)
-![IBM QRadar](https://img.shields.io/badge/IBM_QRadar-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![Microsoft Sentinel](https://img.shields.io/badge/MS_Sentinel-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![Zeek](https://img.shields.io/badge/Zeek-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![Suricata](https://img.shields.io/badge/Suricata-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
 ![Sigma Rules](https://img.shields.io/badge/Sigma_Rules-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![YARA](https://img.shields.io/badge/YARA-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![Sysmon](https://img.shields.io/badge/Sysmon-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![Velociraptor](https://img.shields.io/badge/Velociraptor-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![TheHive](https://img.shields.io/badge/TheHive_%2F_Cortex-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![Volatility](https://img.shields.io/badge/Volatility-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![Ghidra](https://img.shields.io/badge/Ghidra-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![Autopsy / FTK](https://img.shields.io/badge/Autopsy_%2F_FTK_Imager-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![osquery](https://img.shields.io/badge/osquery-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
 
-</div>
+<br><br>
 
----
-
-## <img src="https://img.shields.io/badge/●-A371F7?style=flat-square&labelColor=0D1117"/> `$ recon --osint --intel`
-
-<div align="center">
-
+<img src="https://img.shields.io/badge/●-A371F7?style=flat-square&labelColor=0D1117"/> <sub><b>Intel / OSINT</b></sub>
+&nbsp;&nbsp;
 ![Shodan](https://img.shields.io/badge/Shodan-161B22?style=for-the-badge&logo=shodan&logoColor=E6EDF3&labelColor=0D1117)
-![Maltego](https://img.shields.io/badge/Maltego-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![SpiderFoot](https://img.shields.io/badge/SpiderFoot-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![theHarvester](https://img.shields.io/badge/theHarvester-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-161B22?style=for-the-badge&logo=virustotal&logoColor=E6EDF3&labelColor=0D1117)
-![Censys](https://img.shields.io/badge/Censys-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![SecurityTrails](https://img.shields.io/badge/SecurityTrails-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![crt.sh](https://img.shields.io/badge/crt.sh-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![Amass](https://img.shields.io/badge/Amass-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![Sherlock](https://img.shields.io/badge/Sherlock-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![Google Dorking](https://img.shields.io/badge/Google_Dorking-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
 ![MITRE ATT%26CK](https://img.shields.io/badge/MITRE_ATT%26CK-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-161B22?style=for-the-badge&logo=owasp&logoColor=E6EDF3&labelColor=0D1117)
-![NIST CSF](https://img.shields.io/badge/NIST_CSF-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
 
-</div>
+<br><br>
 
----
-
-## <img src="https://img.shields.io/badge/●-D29922?style=flat-square&labelColor=0D1117"/> `$ terraform plan -target=infra/cloud`
-
-<div align="center">
-
+<img src="https://img.shields.io/badge/●-D29922?style=flat-square&labelColor=0D1117"/> <sub><b>Cloud / Infra</b></sub>
+&nbsp;&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-161B22?style=for-the-badge&logo=amazonaws&logoColor=E6EDF3&labelColor=0D1117)
-![AWS S3](https://img.shields.io/badge/AWS_S3-161B22?style=for-the-badge&logo=amazons3&logoColor=E6EDF3&labelColor=0D1117)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-161B22?style=for-the-badge&logo=awslambda&logoColor=E6EDF3&labelColor=0D1117)
-![Amazon Athena](https://img.shields.io/badge/Amazon_Athena-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![SageMaker](https://img.shields.io/badge/SageMaker-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![Azure](https://img.shields.io/badge/Azure-161B22?style=for-the-badge&logo=microsoftazure&logoColor=E6EDF3&labelColor=0D1117)
 ![Docker](https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=E6EDF3&labelColor=0D1117)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-161B22?style=for-the-badge&logo=kubernetes&logoColor=E6EDF3&labelColor=0D1117)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-161B22?style=for-the-badge&logo=apachekafka&logoColor=E6EDF3&labelColor=0D1117)
-![Spark](https://img.shields.io/badge/Apache_Spark-161B22?style=for-the-badge&logo=apachespark&logoColor=E6EDF3&labelColor=0D1117)
-![Power BI](https://img.shields.io/badge/Power_BI-161B22?style=for-the-badge&logo=powerbi&logoColor=E6EDF3&labelColor=0D1117)
-![Git](https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=E6EDF3&labelColor=0D1117)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-161B22?style=for-the-badge&logo=githubactions&logoColor=E6EDF3&labelColor=0D1117)
 
-</div>
+<br><br>
 
----
-
-## <img src="https://img.shields.io/badge/●-8B949E?style=flat-square&labelColor=0D1117"/> `$ python3 -c "print(languages)"`
-
-<div align="center">
-
+<img src="https://img.shields.io/badge/●-8B949E?style=flat-square&labelColor=0D1117"/> <sub><b>Languages</b></sub>
+&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=E6EDF3&labelColor=0D1117)
-![SQL](https://img.shields.io/badge/SQL-161B22?style=for-the-badge&logo=postgresql&logoColor=E6EDF3&labelColor=0D1117)
 ![Bash](https://img.shields.io/badge/Bash-161B22?style=for-the-badge&logo=gnubash&logoColor=E6EDF3&labelColor=0D1117)
 ![PowerShell](https://img.shields.io/badge/PowerShell-161B22?style=for-the-badge&logo=powershell&logoColor=E6EDF3&labelColor=0D1117)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-161B22?style=for-the-badge&logo=kalilinux&logoColor=E6EDF3&labelColor=0D1117)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![Tails OS](https://img.shields.io/badge/Tails_OS-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![Linux](https://img.shields.io/badge/Linux-161B22?style=for-the-badge&logo=linux&logoColor=E6EDF3&labelColor=0D1117)
-![Windows](https://img.shields.io/badge/Windows-161B22?style=for-the-badge&logo=windows&logoColor=E6EDF3&labelColor=0D1117)
-
-</div>
-
----
-
-## `$ tail -f currently-exploring.log`
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-**In progress**
-- Cloud Security
-- AI for Cybersecurity
-- Detection Engineering
-- Threat Hunting
-
-</td>
-<td width="50%" valign="top">
-
-**In progress**
-- Security Automation
-- Digital Forensics
-- Purple Teaming
-- Open Source Security Projects
-
-</td>
-</tr>
-</table>
-
----
-
-## `$ nmap -sV --script=cert-enum career/certifications`
-
-<div align="center">
-
-![ISC2](https://img.shields.io/badge/ISC²-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![IBM SkillsBuild](https://img.shields.io/badge/IBM_SkillsBuild-161B22?style=for-the-badge&logo=ibm&logoColor=E6EDF3&labelColor=0D1117)
-![Cisco](https://img.shields.io/badge/Cisco_Networking_Academy-161B22?style=for-the-badge&logo=cisco&logoColor=E6EDF3&labelColor=0D1117)
-![EC-Council](https://img.shields.io/badge/EC--Council-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-161B22?style=for-the-badge&logo=microsoft&logoColor=E6EDF3&labelColor=0D1117)
-![Google](https://img.shields.io/badge/Google-161B22?style=for-the-badge&logo=google&logoColor=E6EDF3&labelColor=0D1117)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-161B22?style=for-the-badge&logo=googlecloud&logoColor=E6EDF3&labelColor=0D1117)
-![AWS](https://img.shields.io/badge/AWS-161B22?style=for-the-badge&logo=amazonaws&logoColor=E6EDF3&labelColor=0D1117)
-![Harvard CS50](https://img.shields.io/badge/Harvard_CS50-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![TCM Security](https://img.shields.io/badge/TCM_Security-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![MeitY](https://img.shields.io/badge/MeitY_Govt._of_India-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-![NHRC India](https://img.shields.io/badge/NHRC_India-161B22?style=for-the-badge&logoColor=E6EDF3&labelColor=0D1117)
-
-</div>
-
----
-
-## `$ curl -s ranks.tryhackme.com/AshwinN`
-
-<div align="center">
-
-| Platform | Standing |
-|:--|:--|
-| **TryHackMe** | **Global Rank #1 — 2025** |
-| Hack The Box | Active |
-| PortSwigger Web Security Academy | Active |
-| Let's Defend | Active |
-| Hackviser Core | Active |
-| PicoCTF / OverTheWire / Root Me / VulnHub / PentesterLab | Active |
 
 </div>
 
@@ -250,44 +126,41 @@ I build practical security systems and break them again on purpose — Security 
 <tr>
 <td width="33%" valign="top">
 
-**SOC-X**
+**[SOC-X](https://github.com/AshwinNHacker/SOC-X)**
 SOC framework powered by Wazuh & Kibana.
 
 </td>
 <td width="33%" valign="top">
 
-**DeepView Forensics**
+**[DeepView Forensics](https://github.com/AshwinNHacker/DeepView-Forensics)**
 AI-powered digital integrity validation suite.
 
 </td>
 <td width="33%" valign="top">
 
-**Cloud-Native Firewall AD**
-Intelligent anomaly detection for cloud firewalls.
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**Security Automation Scripts**
-Tooling for repeatable SOC workflows.
-
-</td>
-<td valign="top">
-
-**Threat Detection Pipelines**
-Log analysis & detection engineering.
-
-</td>
-<td valign="top">
-
-**Cloud Security Research**
-Applied research + DFIR investigations.
+**[Cloud-Native Firewall AD](https://github.com/AshwinNHacker/Cloud-Native-Firewall-AD)**
+Anomaly detection for cloud firewalls.
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+<sub>↑ replace each link with your actual repo URL once named</sub>
+</div>
+
+---
+
+## `$ curl -s ranks.tryhackme.com/AshwinN`
+
+<div align="center">
+
+| Platform | Standing |
+|:--|:--|
+| **TryHackMe** | **Global Rank #1 — 2025** |
+| Hack The Box · PortSwigger · Let's Defend | Active |
+
+</div>
 
 ---
 
@@ -299,13 +172,8 @@ Applied research + DFIR investigations.
 
 <br><br>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshwinNHacker&theme=github_dark"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AshwinNHacker&theme=github_dark"/>
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AshwinNHacker&hide_border=true&bg_color=0D1117&color=8B949E&line=58A6FF&point=F85149"/>
-
-<br><br>
-
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshwinNHacker&theme=github_dark"/>
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AshwinNHacker&theme=github_dark"/>
 
 </div>
 
@@ -315,7 +183,7 @@ Applied research + DFIR investigations.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=E6EDF3&labelColor=0D1117)](https://linkedin.com/in/www.linkedin.com/in/ashwin-n-1-1-1-/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=E6EDF3&labelColor=0D1117)](https://linkedin.com/in/ashwin-n-1-1-1-/)
 [![Gmail](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=E6EDF3&labelColor=0D1117)](mailto:ashwinnadaraj111@gmail.com)
 
 </div>
