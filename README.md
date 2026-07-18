@@ -314,9 +314,11 @@ Applied research + DFIR investigations.
 ## `$ netstat -antp | grep ESTABLISHED`
 
 <div align="center">
-[LinkedIn] → linkedin.com/in/ashwin-n-1-1-1-/
-[Email]    → mailto:ashwinnadaraj111@gmail.com
-[Google Developer Program] → g.dev/Ashwin-N-CyberSecurity-Google
+
+[![LinkedIn](...&logo=linkedin...)](https://linkedin.com/in/ashwin-n-1-1-1-/)
+[![Email](...&logo=gmail...)](mailto:ashwinnadaraj111@gmail.com)
+[![Google Developer Program](...&logo=google...)](https://g.dev/Ashwin-N-CyberSecurity-Google)
+
 </div>
 
 <br>
