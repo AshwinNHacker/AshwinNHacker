@@ -262,6 +262,7 @@ I move both directions on this chain on purpose — the best detections I write 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0D1117)](https://linkedin.com/in/ashwin-n-1-1-1-/)
 [![Email](https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=F85149&labelColor=0D1117)](mailto:ashwinnadaraj111@gmail.com)
+[![Google Developer Program](https://img.shields.io/badge/Google_Developer_Program-161B22?style=for-the-badge&logo=google&logoColor=A371F7&labelColor=0D1117)](https://g.dev/Ashwin-N-CyberSecurity-Google)
 
 <br>
 
